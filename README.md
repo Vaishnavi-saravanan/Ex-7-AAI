@@ -72,7 +72,11 @@ print(summary)
 ```
 
 <H3>Output</H3>
-![image](https://github.com/user-attachments/assets/1433bd33-7d7b-4605-afbe-1bb0fd7c6dc1)
+
+![Screenshot 2024-11-05 222635](https://github.com/user-attachments/assets/21482d55-a894-4320-9870-aac4869e9b1e)
+
+
+
 
 
 <H3>Result:</H3>
